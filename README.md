@@ -1,1 +1,1 @@
-# rabbitMQ
+# Sample application of RabbitMQ
